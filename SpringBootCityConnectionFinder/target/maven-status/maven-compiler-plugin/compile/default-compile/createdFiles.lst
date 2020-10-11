@@ -1,0 +1,6 @@
+com/challenge/utils/CityConnectionsHelper.class
+com/challenge/utils/CityConnectionsBuilder.class
+com/challenge/SpringBootCityConnectionApplication.class
+com/challenge/domain/CityConnection.class
+com/challenge/services/CityConnectionsService.class
+com/challenge/utils/CityConnectionFinder.class
